@@ -1,4 +1,4 @@
-# 
+# Principal nanochat temas. Con implementación de modelos y computación en el borde — optimizado para el máximo rendimiento y eficiencia.
 
 
 
